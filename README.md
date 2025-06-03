@@ -12,7 +12,7 @@ A web-based Augmented Reality game inspired by Fruit Ninja — but with a twist!
 
 ## 🎯 Project Background
 
-In a time when many people sit at desks all day, **AR Fruit Buster** was built to encourage users to move and get active — all while having fun. This game turns your **body into the controller** using real-time pose detection, making it a playful way to do some light **exercise at home or at work**.
+In a time when many people sit at desks all day, **Punching Frenzyy** was built to encourage users to move and get active — all while having fun. This game turns your **body into the controller** using real-time pose detection, making it a playful way to do some light **exercise at home or at work**.
 
 Designed for accessibility, this game only requires a webcam and a browser — no VR headset or extra device needed.
 
