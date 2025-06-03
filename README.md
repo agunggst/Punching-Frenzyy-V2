@@ -3,6 +3,12 @@
 A web-based Augmented Reality game inspired by Fruit Ninja — but with a twist! Use your own **hand movements** (no controller needed) to smash fruits on the screen while avoiding bombs. It's fun, interactive, and gets your body moving!
 
 ---
+## 🔗 **Live Demo**
+
+🌐 You can access the game directly here:
+**[https://punching-frenzyy.web.app/](https://punching-frenzyy.web.app/)**
+
+---
 
 ## 🎯 Project Background
 
