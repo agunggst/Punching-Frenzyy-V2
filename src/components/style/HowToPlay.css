@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap);
+
+@font-face {
+  font-family: 'Samurai';
+  src: url('/assets/go3v2.ttf') format('truetype');
+}
+
+@keyframes floatbox {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-40px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+
+h4.htp{
+    font-size: 20px;
+}
+
+.howtoplay {
+    border: solid 10px rgba(241, 241, 241, 0.8);
+    background: rgba(22, 22, 22, 0.99);
+    position: fixed;
+    width: 700px;
+    height: 700px;
+    left: 50%;
+    margin-left: -350px;
+    top: 100px;
+    font-size: 25px;
+    color: white;
+    transform: translatey(0px);
+    animation: floatbox 6s ease-in-out infinite;
+    border-radius: 8px;
+}
+
+.textcontainer{
+    margin-top: 80px;
+    
+}
+
+ol{
+    font-family: 'Fredoka One';
+    color: white;
+}
