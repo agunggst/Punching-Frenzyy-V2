@@ -72,7 +72,7 @@ Then open your browser and go to:
 ---
 
 ## 📸 Demo
-![image](https://drive.google.com/file/d/1f7258hAT5nFcqJMCwyxcWuAr66IOc9aO/view?usp=drive_link)
+![image](https://drive.google.com/file/d/1f7258hAT5nFcqJMCwyxcWuAr66IOc9aO/view)
 
 ---
 
