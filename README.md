@@ -72,7 +72,7 @@ Then open your browser and go to:
 ---
 
 ## 📸 Demo
-![image](https://drive.google.com/file/d/1f7258hAT5nFcqJMCwyxcWuAr66IOc9aO/view)
+![image](https://ucabadb99329289044259b984952.previews.dropboxusercontent.com/p/thumb/ACoLpqUszVBSHeoRGd88cB-DiEzmH3z-jqPztqLmqpJX15wgdOLqnbPOpLAumfmtUi5jsVggNT5mnAqhypuMRysh0x6eYtv7vfCn01T_jK4d343iLu6djyI48sBNukS_9iHGiwEJoXeQtxOytPNdJ8Ekfmb_NfYYb7bvhd_oP3Oe9ZUmQ7Bidf0aghWq_EK1D-UQf3CQ2qhmiKq7FvO9OjeH_MIDPiz1tKrnk3qWqVRljWcU9PZvVF3tOBp7p07d4Bcvp0MIXwEB_GGcZKESvMWNk1a4e6uYNVcMUNeFKfX7X8xk6ERQsitNcpkakwg-Q6gud4wlbNB6a-TYlVa7vzKMkhW4x5c2-RTPvWPvt-5u0HBV_IqBp3bKmIict0YAXoy53rKJYKRWwqY9NrnX-RRU/p.png?is_prewarmed=true)
 
 ---
 
