@@ -75,9 +75,14 @@ Then open your browser and go to:
 
 * **Video Demo: [YouTube](https://www.youtube.com/watch?v=Hbdu22tZFOo)**
 
-![image](https://media.licdn.com/dms/image/v2/D5622AQFLEg0vIRcfIA/feedshare-shrink_2048_1536/B56Zc67Rl7G0Ao-/0/1749040310184?e=1754524800&v=beta&t=04TnvpkHZDUEOaK3W5OXGKKOh4aZG5NiOOFprcS_1Y4)
-![image](https://uc26bccea6f28f8046d2d90156c3.previews.dropboxusercontent.com/p/thumb/ACo1TNR_DWrTgLhXQ2IiIJTk9e4z3DXE1Knu_mXwqkPb9Z9TZl0i6HWk8_u5UYQH5AeABHO5FRoKm1c_fR_jSQimxLGPg7T3K_4ARUEtZ_5-zllaZQK8YbYuVh6jAIcotEmuqjYN1mUi_6r3xYywQuuHjiRMBPAaYanRElbwQCHUsWL8ol4XEjSydRa8Uk8MLqlWGkdfZRzDkBXUvxXvZqEg5TJr-cTfhTc0iuDEIlUMC__rECKzw4bKJLMGFZfmdy_z-RiXx_UBWphl3YRZVrtWX0Ex8PkB4lqt-M_roFd8v8Qf71MUNJ1RnjPNDsujkzt3I3hEWQ1fr5IG3-guYC5u2BD_NscKlLS2_jx1IMNYMF1BBZNGskpzaPmCiJ1u_X0jYHCq9LNCaqHb0HFZcO6TRW_8c6RGd92Arfw7a-sEioPVoTe4OGy8PhuyNZqg91GNebkiBUCVuQKToUKwgnLe/p.png?is_prewarmed=true)
-![image](https://ucbf1d73686a4b6b9ae3950caeb2.previews.dropboxusercontent.com/p/thumb/ACpb1_LN85VmMLqUuki1jlBzYuO2HU4xaLwDGUjnS93Qn607_LlmzuTPJaX9pa-velAsfvRcA2Bay8eBRGXPRYHNJP6zqpMv7l7tq4nzCESKw_80V3W1737l2rE1RxePv2wOQv1Vh8w3nfPwwrkKm843mgFTyPDAWibTcL4PWfEyTXI4Mjq9aOXQu2YgU_CfBKytYN6jUR4z_jY6RuMT3zvdqxAA9h-LJXSg9hRmvSAaf4_TrDjrDr-S-hJRGZ1rMeR2TmcLcZA0XhM0U166Nco7o0D01F2FCfXBB8a0M_rbQlEQgHuFT2X47xJbNboxFdDwUV8pWa2TmIq0NirQ-YWz9LLKBjV-cvtMd-bxyCsFDBzbpyZ2vFbZZk1l1mgJ68tr1WXHMpyPXSUYGrHZLyitVCGTxV-ODWAP_8VCDWQ646yMAZ8u6y0YPfP_6FTeqVICQFyCDzxFLWm6X-HYpy-t/p.png?is_prewarmed=true)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQFLEg0vIRcfIA/feedshare-shrink_2048_1536/B56Zc67Rl7G0Ao-/0/1749040310184?e=1754524800&v=beta&t=04TnvpkHZDUEOaK3W5OXGKKOh4aZG5NiOOFprcS_1Y4" alt="Gambar 1" width="45%">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQGCl0ZoU0eLAQ/feedshare-shrink_2048_1536/B56Zc67RmAHoAo-/0/1749040310358?e=1754524800&v=beta&t=ppdGsCekGMT3ec1RAkhn1oStgGGhKPU8UKYNUbtSZgE" alt="Gambar 2" width="45%">
+</p>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQES2zcq945zJw/feedshare-shrink_2048_1536/B56Zc67RmwHUAs-/0/1749040316405?e=1754524800&v=beta&t=Nt2JiCQCJ2EUxOGxQ5FDBfxeQFp7zxs7i5BkPBap6Jc" alt="Gambar 3" width="45%">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQHACjGyzDvZ8w/feedshare-shrink_2048_1536/B56Zc67RmZGQAo-/0/1749040316493?e=1754524800&v=beta&t=Bx_UVQo036m3Zgt3nc2fNolf04fTiogHvGA2jY4CIxE" alt="Gambar 4" width="45%">
+</p>
 
 ---
 
